@@ -4,7 +4,7 @@ Hi, in this repository you will find my blocklists for Pi-Hole.
 
 All the lists are reviewed and are the most extensive. Analyzed to avoid blocking the necessary domains.
 
-## BlockList details
+## BlockList details:
 | List | Syze | That makes? |
 | ------------- | ------------- | ------------- |
 | [Ad Servers.txt](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Ad%20Servers.txt) | 45.647 domains | Block Ad Servers |
