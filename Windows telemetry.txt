@@ -1,9 +1,9 @@
-﻿#------------------------------------------------------------------
+#------------------------------------------------------------------
 #
 #	Report if you find a problem or want to add an address.
 #	MIT License: Copyright (c) 2020 Amdromeda
 #	https://www.github.com/amdromeda
-#	Last update with 538 domains
+#	Last update with 574 domains
 #	Last Update: 20/07/2020
 #
 #------------------------------------------------------------------
@@ -50,9 +50,11 @@ ads2.msn.com.c.footprint.net
 aidps.atdmt.com
 aka-cdn-ns.adtech.de
 alpha.telemetry.microsoft.com
+alpha.watson.microsoft.com
 any.edge.bing.com
 apac1.notify.windows.com.akadns.net
 api.cortana.ai
+appcenter.watson.microsoft.com
 apps.skype.com
 arc.msn.com
 asimov-win.settings.data.microsoft.com.akadns.net
@@ -126,6 +128,7 @@ c-0001.dc-msedge.net
 c.atdmt.com
 c.msn.com
 ca.telemetry.microsoft.com
+cab.watson.microsoft.com
 cache.datamart.windows.com
 cdn.atdmt.com
 cds10.stn.llnw.net
@@ -240,6 +243,7 @@ choice.microsoft.com
 choice.microsoft.com.nsatc.net
 client.wns.windows.com
 co4.telecommand.telemetry.microsoft.com
+co4.telecommand.telemetry.microsoft.com.akadns.net
 compatexchange.cloudapp.net
 compatexchange1.trafficmanager.net
 continuum.dds.microsoft.com
@@ -250,20 +254,24 @@ cs.dds.microsoft.com
 cs1.wpc.v0cdn.net
 cs11.wpc.v0cdn.net
 cs1137.wpc.gammacdn.net
-ctldl.windowsupdate.com
 cy2.settings.data.microsoft.com.akadns.net
 cy2.vortex.data.microsoft.com.akadns.net
+data.watson.microsoft.com
 db3aqu.atdmt.com
 db3wns2011111.wns.windows.com
 db5-eap.settings-win.data.microsoft.com.akadns.net
 db5.settings-win.data.microsoft.com.akadns.net
 db5.settings.data.microsoft.com.akadns.net
 db5.vortex.data.microsoft.com.akadns.net
+de-v20.events.data.microsoft.com
 dev.virtualearth.net
+devcenter.watson.microsoft.com
 df.telemetry.microsoft.com
 diagnostics.support.microsoft.com
 directory.services.live.com
+dlassets-ssl.xboxlive.com
 dns.msftncsi.com
+docs.watson.microsoft.com
 download.windowsupdate.com
 e2835.dspb.akamaiedge.net
 e7341.g.akamaiedge.net
@@ -280,6 +288,7 @@ eu-v20.events.data.microsoft.com
 eu.vortex-win.data.microsoft.com
 eu.vortex.data.microsoft.com
 events.data.microsoft.com
+evoke-windowsservices-tas.msedge.net
 fe2.update.microsoft.com.akadns.net
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 fe3.delivery.mp.microsoft.com
@@ -287,6 +296,7 @@ feedback.microsoft-hohm.com
 feedback.search.microsoft.com
 feedback.windows.com
 flex.msn.com
+fs.microsoft.com
 g.akamaiedge.net
 g.msn.com
 geo.settings-win.data.microsoft.com.akadns.net
@@ -372,6 +382,8 @@ hk2sch130022135.wns.windows.com
 hk2wns1.wns.windows.com
 hk2wns1b.wns.windows.com
 hostedocsp.globalsign.com
+http://dmd.metaservices.microsoft.com/
+http://fe3cr.delivery.mp.microsoft.com/
 i-bl6p-cor001.api.p001.1drv.com
 i-bl6p-cor002.api.p001.1drv.com
 i-bn3p-cor001.api.p001.1drv.com
@@ -389,8 +401,10 @@ i1.services.social.microsoft.com
 i1.services.social.microsoft.com.nsatc.net
 ieonlinews.microsoft.com
 ieonlinews.trafficmanager.net
+img-prod-cms-rt-microsoft-com
 inference.location.live.net
 insideruser.trafficmanager.net
+internaldata.watson.microsoft.com
 ipv6.msftncsi.com
 ipv6.msftncsi.com.edgesuite.net
 lb1.www.ms.akadns.net
@@ -400,6 +414,7 @@ location-inference-westus.cloudapp.net
 login.live.com.nsatc.net
 m.adnxs.com
 m.hotmail.com
+manage.devcenter.microsoft.com
 maps.windows.com
 microsoft-hohm.com
 mobile.events.data.microsoft.com
@@ -422,6 +437,8 @@ officeupdate.microsoft.com
 onecollector.cloudapp.aria.akadns.net
 onesettings-db5.metron.live.nsatc.net
 onesettings-hk2.metron.live.com.nsatc.net
+ppe.appcenter.watson.microsoft.com
+ppe.devcenter.watson.microsoft.com
 pre.footprintpredict.com
 preview.msn.com
 pricelist.skype.com
@@ -436,6 +453,8 @@ redirection.prod.cms.msn.com.akadns.net
 register.mesh.com
 reports.wes.df.telemetry.microsoft.com
 ris.api.iris.microsoft.com
+rule-ppe.watson.microsoft.com
+rule.watson.microsoft.com
 s.gateway.messenger.live.com
 s0.2mdn.net
 sO.2mdn.net
@@ -500,11 +519,13 @@ tile-service.weather.microsoft.com
 travel.tile.appex.bing.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 ui.skype.com
+uk-v20.events.data.microsoft.com
 umwatsonc.events.data.microsoft.com
 update.microsoft.com
 us-v10.events.data.microsoft.com
 us-v20.events.data.microsoft.com
 us.vortex-win.data.microsoft.com
+us5-v20.events.data.microsoft.com
 v10-win.vortex.data.microsoft.com.akadns.net
 v10.events.data.microsoft.com
 v10.vortex-win.data.metron.life.com.nsatc.net
@@ -532,6 +553,21 @@ watson.microsoft.com.nsatc.net
 watson.ppe.telemetry.microsoft.com
 watson.telemetry.microsoft.com
 watson.telemetry.microsoft.com.nsatc.net
+watson1.watson.microsoft.com
+watson101.watson.microsoft.com
+watson102.watson.microsoft.com
+watson103.watson.microsoft.com
+watson104.watson.microsoft.com
+watson105.watson.microsoft.com
+watson106.watson.microsoft.com
+watson107.watson.microsoft.com
+watson108.watson.microsoft.com
+watson109.watson.microsoft.com
+watson110.watson.microsoft.com
+watson111.watson.microsoft.com
+watson112.watson.microsoft.com
+watson2.watson.microsoft.com
+watson3.watson.microsoft.com
 web.vortex.data.microsoft.com
 wes.df.telemetry.microsoft.com
 weus2watcab01.blob.core.windows.net
