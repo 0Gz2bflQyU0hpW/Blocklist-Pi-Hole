@@ -3,7 +3,7 @@
 #	Report if you find a problem or want to add an address.
 #	MIT License: Copyright (c) 2020 Amdromeda
 #	https://www.github.com/amdromeda
-#	Last update with 574 domains
+#	Last update with 576 domains
 #	Last Update: 20/07/2020
 #
 #------------------------------------------------------------------
@@ -282,6 +282,7 @@ eaus2watcab01.blob.core.windows.net
 eaus2watcab02.blob.core.windows.net
 ec.atdmt.com
 ecn.dev.virtualearth.net
+edge.activity.windows.com
 en-us.appex-rf.msn.com
 eu-v10.events.data.microsoft.com
 eu-v20.events.data.microsoft.com
@@ -427,6 +428,7 @@ msnbot-207-46-194-33.search.msn.com
 msnbot-65-52-108-33.search.msn.comments
 msnbot-65-55-108-23.search.msn.com
 msntest.serving-sys.com
+nav.smartscreen.microsoft.com
 nexus.officeapps.live.com
 nexusrules.officeapps.live.com
 ntservicepack.microsoft.com
