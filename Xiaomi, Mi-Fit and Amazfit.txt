@@ -3,17 +3,20 @@
 #	Report if you find a problem or want to add an address.
 #	MIT License: Copyright (c) 2020 Amdromeda
 #	https://www.github.com/amdromeda
-#	Last update with 941 domains
+#	Last update with 957 domains
 #	Last Update: 20/07/2020
 #
 #------------------------------------------------------------------
 
+51modo.cc
 a.hl.mi.com
 a.market.xiaomi.com
 a.stat.xiaomi.com
 a.union.mi.com
 a0.app.xiaomi.com
 abroad-aftersale.huami.com
+abroad.apilocate.amap.com
+abtest.mistat..xiaomi.com
 abtest.mistat.india.xiaomi.com
 abtest.mistat.intl.xiaomi.com
 abtest.mistat.xiaomi.com
@@ -33,6 +36,7 @@ account.ai.xiaomi.com
 account.huami.com
 account.huami.com 
 account.preview.n.xiaomi.net
+account.xiaomi.com
 account.xiaomi.com.adserver.com
 acheel.dmp.ad.xiaomi.com
 activeqq.3g.qq.com
@@ -58,6 +62,7 @@ ai.api.xiaomi.com
 ai.xiaomi.com
 aiasst.xiaomi.com
 aipa.ai.xiaomi.com
+alog.umeng.co
 alog.umeng.com
 analytics.huami.com
 analytics3.starschina.com
@@ -122,6 +127,7 @@ api.ad.xiaomi.com.adserver.com
 api.admob.xiaomi.com
 api.ai.xiaomi.com
 api.amazfit.com
+api.chat..xiaomi.net
 api.chat.xiaomi.net
 api.cloudsetting.intl.miui.com
 api.collect.data.intl.miui.com
@@ -383,6 +389,7 @@ feedback.xmpush.global.xiaomi.com
 feedback.xmpush.xiaomi.com
 file.ai.xiaomi.com
 file.cdn.mvideo.xiaomi.com
+file.market..xiaomi.com
 file.market.xiaomi.com
 file.xmpush.xiaomi.com
 files.ai.xiaomi.com
@@ -808,20 +815,26 @@ t1.a.market.xiaomi.com
 t1.g.mi.com
 t1.market.mi-img.com
 t1.market.xiaomi.com
+t13.market.mi-img.com.w.cdngslb.com
 t13.market.xiaomi.com
+t14.market.mi-img.com
 t14.market.xiaomi.com
 t2.a.market.xiaomi.com
 t2.g.mi.com
+t2.market.mi-img.com
 t2.market.xiaomi.com
 t3.a.market.xiaomi.com
 t3.g.mi.com
+t3.market.mi-img.com
 t3.market.xiaomi.com
 t4.a.market.xiaomi.com
 t4.g.mi.com
 t4.market.xiaomi.com
 t5.a.market.xiaomi.com
 t5.g.mi.com
+t5.market.mi-img.com
 t5.market.xiaomi.com
+t6.market.mi-img.com
 t6.market.xiaomi.com
 talos.api.xiaomi.com
 tc.hd.xiaomi.com
@@ -861,6 +874,7 @@ tw.file.ai.xiaomi.com
 tw.nlp.ai.xiaomi.com
 tw.speech.ai.xiaomi.com
 tw13b093.sandai.net
+tz.sec.xiaomi.com
 union.dbba.cn
 unlock.pt.intl.xiaomi.com
 unlock.pt.xiaomi.com
@@ -904,6 +918,7 @@ voip.game.xiaomi.com
 w.pandora.xiaomi.com
 wallet.pay.xiaomi.com
 wallpaper.cdn.pandora.xiaomi.com
+wallpaper.pandora..xiaomi.com
 wallpaper.pandora.xiaomi.com
 wap.amap.com
 wap.game.xiaomi.com
@@ -926,6 +941,7 @@ xiaomi-dtv.m.cn.miaozhen.com
 xiaomi-mipdx.cn.miaozhen.com
 xiaomi-support.com
 xiaomi-support.ru
+xiaomi.com
 xiaomi.m.cn.miaozhen.com
 xiaomi.net
 xiaomi.support
