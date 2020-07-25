@@ -6,9 +6,9 @@ All the lists are reviewed and are the most extensive to date. Analyzed to avoid
 ## BlockList details:
 | List | Syze | That makes? |
 | ------------- | ------------- | ------------- |
-| [Ad Servers.txt](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Ad%20Servers.txt) | 45.647 domains | Block Ad Servers |
-| [Mining pages.txt](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Mining%20pages.txt) | 35.382 domains | Block all mining pages |
-| [Xiaomi, Mi-Fit and Amazfit.txt](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Xiaomi%2C%20Mi-Fit%20and%20Amazfit.txt) | 957 domains | Block all Xiaomi apps, Mi-Fit and Amazfit |
+| [Ad Servers.txt](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Ad%20Servers.txt) | 179.550 domains | Block Ad Servers |
+| [Mining pages.txt](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Mining%20pages.txt) | 34.491 domains | Block all mining pages |
+| [Xiaomi, Mi-Fit and Amazfit.txt](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Xiaomi%2C%20Mi-Fit%2C%20Amazfit.txt) | 1.014 domains | Block all Xiaomi apps, Mi-Fit and Amazfit |
 | [Windows telemetry.txt](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Windows%20telemetry.txt) | 576 domains | Block all telemetry of windows |
 
 ## How to support block lists:
