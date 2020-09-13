@@ -1,22 +1,44 @@
-# Blocklist for Pi-Hole [Amdromeda]
-Hi, in this repository you will find my blocklists for Pi-Hole.
+# Amdromeda blocklist for Pi-hole
+Hi, in this repository you will find my blocklists for Pi-Hole (They can be used in some other services)
 
-All the lists are reviewed and are the most extensive to date. Analyzed to avoid blocking the necessary domains.
+# Why these DNS lists
+This project aims to unify the DNS blocklists by adding my contributions, keeping the lists error free and optimized. I believe in privacy and I think it is necessary to have lists that block certain addresses.
 
-## BlockList details:
-| List | Syze | That makes? |
-| ------------- | ------------- | ------------- |
-| [Ad Servers.txt](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Ad%20Servers.txt) | 179.550 domains | Block Ad Servers |
-| [Mining pages.txt](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Mining%20pages.txt) | 34.491 domains | Block all mining pages |
-| [Xiaomi, Mi-Fit, Amazfit.txt](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Xiaomi%2C%20Mi-Fit%2C%20Amazfit.txt) | 1.014 domains | Block all Xiaomi apps, Mi-Fit and Amazfit |
-| [Windows telemetry.txt](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Windows%20telemetry.txt) | 576 domains | Block all telemetry of windows |
+Here you will find the most extensive and cleanest lists. I invite you to help me in this task.
 
-## How to support block lists:
-You can support in multiple ways:
- - Submit false positives
- - Submit new (tested) sources
- - Broadcast with other users
+## BlockList details
+| LIST NAME | DESCRIPTION | ENTRIES (domains) | RAW / TXT |
+|:---------:|:-------:|:--------------:|:---------:|
+Ads servers | - | 0 | [list](https://raw.githubusercontent.com/) | 
+Mining pages | - | 0 | [list](https://raw.githubusercontent.com/) | 
+Pages with porn | - | 0 | [list](https://raw.githubusercontent.com/) | 
+Xiaomi, Mi-Fit, Amazfit | - | 0 | [list](https://raw.githubusercontent.com/) | 
+All Facebook telemetry | - | 0 | [list](https://raw.githubusercontent.com/) | 
+Amazon FireTV telemetry | - | 0 | [list](https://raw.githubusercontent.com/) | 
+Windows telemetry | - | 0 | [list](https://raw.githubusercontent.com/) | 
 
- ## Note:
+## Package Sources
+Sources that are used for each blocklist:
 
-The Xiaomi lists block all traffic except updates, if you want to log in I advise you to temporarily disable it.
+| PACKAGE | SOURCES USED |  
+|:-------:|:-------:|
+**Name** | *-* |
+**Name** | *-* |
+**Name** | *-* |
+**Name** | *-* |
+**Name** | *-* |
+
+## How to support block lists
+You can support in multiple ways
+
+ ➤ Submit false positives
+ ➤ Submit new sources
+ ➤ Broadcast with other users
+ 
+ Your support will help us keep the project running and provide you quality service.
+ 
+## Disclaimer
+Amdromeda blocklists are `hosts files` to block access to domains. If you don't know how it works, then please try this at your own risk. I won't be responsible for any damage or loss.
+
+## License
+Content of the Amdromeda is licensed under a [MIT LICENSE](https://github.com/Amdromeda/Blocklist-Pi-Hole/blob/master/LICENSE).
