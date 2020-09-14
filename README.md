@@ -10,12 +10,12 @@ Here you will find the most extensive and cleanest lists. I invite you to help m
 | LIST NAME | DESCRIPTION | ENTRIES (domains) | RAW / TXT |
 |:---------:|:-------:|:--------------:|:---------:|
 Ads servers | - | 0 | [list](https://raw.githubusercontent.com/) | 
-Mining pages | - | 0 | [list](https://raw.githubusercontent.com/) | 
-Pages with porn | - | 0 | [list](https://raw.githubusercontent.com/) | 
-Xiaomi, Mi-Fit, Amazfit | - | 0 | [list](https://raw.githubusercontent.com/) | 
+Mining pages | Block all mining pages | 34.491 | [list](https://raw.githubusercontent.com/) | 
+Pages with porn (Part 1,2,3) | Block all porn pages | 2.043.327 | [list](https://raw.githubusercontent.com/) | 
+Xiaomi, Mi-Fit, Amazfit | Block all connections | 1.023 | [list](https://raw.githubusercontent.com/) | 
 All Facebook telemetry | - | 0 | [list](https://raw.githubusercontent.com/) | 
-Amazon FireTV telemetry | - | 0 | [list](https://raw.githubusercontent.com/) | 
-Windows telemetry | - | 0 | [list](https://raw.githubusercontent.com/) | 
+Amazon FireTV telemetry | Block telemetry domains | 54 | [list](https://raw.githubusercontent.com/) | 
+Windows telemetry | Block all telemetry | 576 | [list](https://raw.githubusercontent.com/) | 
 
 ## Package Sources
 Sources that are used for each blocklist:
