@@ -1,6 +1,6 @@
 #------------------------------------------------------------#
-# Last Update: 13-09-2020
-# Last update with 1.018 domains
+# Last Update: 12-12-2020
+# Last update with 1.024 domains
 # MIT License: Copyright (c) 2020 Amdromeda
 # https://www.github.com/amdromeda/Blocklist-Pi-Hole
 # Report if you find a problem or want to add an address.
@@ -147,6 +147,7 @@ api.dp.pt.xiaomi.com
 api.en.miui.com
 api.faceid.com
 api.facemojikeyboard.com
+api.g.micloud.xiaomi.net
 api.gallery.intl.miui.com
 api.huangye.miui.com.jaadser.adserver.com
 api.hybrid.intl.xiaomi.com
@@ -403,6 +404,7 @@ feedback.pt.intl.xiaomi.com
 feedback.pt.rus.xiaomi.com
 feedback.xmpush.global.xiaomi.com
 feedback.xmpush.xiaomi.com
+fga0.market.xiaomi.com
 file.ai.xiaomi.com
 file.cdn.mvideo.xiaomi.com
 file.market..xiaomi.com
@@ -428,8 +430,10 @@ fr.feedback.xmpush.global.xiaomi.com
 fr.register.xmpush.global.xiaomi.com
 from.pandora.xiaomi.com
 fusion.qq.com
+g-api.facemojikeyboard.com
 g.cn.miaozhen.com
 g.gabigmicloudprovider.lleryapi.micloud.xiaomi.net
+g.galleryapi.micloud.xiaomi.net
 g.o2o.hybrid.xiaomi.com
 g.pandora.xiaomi.com
 ga.mo.intl.xiaomi.com
@@ -500,6 +504,7 @@ i.api.xmpush.global.xiaomi.com
 i.c3.api.xmpush.xiaomi.com
 i.fr.api.xmpush.global.xiaomi.com
 i.lg.api.xmpush.xiaomi.com
+i.mi.com
 i.mi.com.adserver.com
 i.xiaomi.com
 iauth.pt.xiaomi.com
@@ -946,6 +951,7 @@ url8807.global.passport.xiaomi.com
 us-api-micloud-xiaomi-net-5630734.us-west-2.elb.amazonaws.com
 us.api.micloud.xiaomi.net
 us.appbackupapi.micloud.xiaomi.net
+us.browserapi.micloud.xiaomi.net
 us.file.iss.xiaomi.com
 us.find.api.micloud.xiaomi.net
 us.galleryapi.micloud.xiaomi.net
