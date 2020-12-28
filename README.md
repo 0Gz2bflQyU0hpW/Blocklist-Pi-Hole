@@ -9,7 +9,7 @@ Here you will find the most extensive and cleanest lists. I invite you to help m
 ## BlockList details
 | LIST NAME | DESCRIPTION | ENTRIES (domains) | RAW / TXT |
 |:---------:|:-------:|:--------------:|:---------:|
-Ads servers + trackers | Block ads and trackers | 687.938 | [list](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Ads%20and%20trackers.txt) | 
+Ads servers + trackers | Block ads and trackers | 687.936 | [list](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Ads%20and%20trackers.txt) | 
 Mining pages | Block all mining pages | 34.491 | [list](https://raw.githubusercontent.com/) | 
 Pages with porn (Part 1,2,3) | Block all porn pages | 2.044.266 | [Part(1)](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Porn%20pages%20(Part_1).txt) [Part(2)](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Porn%20pages%20(Part_2).txt) [Part(3)](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Porn%20pages%20(Part_3).txt) | 
 Xiaomi, Mi-Fit, Amazfit | Block all connections | 1.024 | [list](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Xiaomi%2C%20Mi-Fit%2C%20Amazfit.txt) | 
