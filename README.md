@@ -7,15 +7,15 @@ This project aims to unify the DNS blocklists by adding my contributions, keepin
 Here you will find the most extensive and cleanest lists. I invite you to help me in this task.
 
 ## BlockList details
-| LIST NAME | DESCRIPTION | ENTRIES (domains) | RAW / TXT |
+| LIST NAME | DESCRIPTION | ENTRIES | RAW / TXT |
 |:---------:|:-------:|:--------------:|:---------:|
 Ads servers + trackers | Block ads and trackers | 687.936 | [list](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Ads%20and%20trackers.txt) | 
 Mining pages | Block all mining pages | 34.491 | [list](https://raw.githubusercontent.com/) | 
-Pages with porn (Part 1,2,3) | Block all porn pages | 2.044.266 | [Part(1)](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Porn%20pages%20(Part_1).txt) [Part(2)](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Porn%20pages%20(Part_2).txt) [Part(3)](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Porn%20pages%20(Part_3).txt) | 
+Pages with porn (Part 1,2,3) | Block all porn pages | 2.044.266 | [list(1)](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Porn%20pages%20(Part_1).txt) [(2)](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Porn%20pages%20(Part_2).txt) [(3)](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Porn%20pages%20(Part_3).txt) | 
 Xiaomi, Mi-Fit, Amazfit | Block all connections | 1.024 | [list](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Xiaomi%2C%20Mi-Fit%2C%20Amazfit.txt) | 
-All Facebook telemetry | - | 0 | [list](https://raw.githubusercontent.com/) | 
 Amazon FireTV telemetry | Block telemetry domains | 54 | [list](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Amazon%20FireTV%20telemetry.txt) | 
 Windows telemetry | Block all telemetry | 576 | [list](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Windows%20telemetry.txt) | 
+All Facebook telemetry | - | 0 | [list](https://raw.githubusercontent.com/) | 
 
 ## Package Sources
 Sources that are used for each blocklist:
