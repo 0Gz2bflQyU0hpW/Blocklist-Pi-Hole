@@ -9,24 +9,13 @@ Here you will find the most extensive and cleanest lists. I invite you to help m
 ## BlockList details
 | LIST NAME | DESCRIPTION | ENTRIES | RAW / TXT |
 |:---------:|:-------:|:--------------:|:---------:|
-Ads servers + trackers | Block ads and trackers | 687.936 | [list](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Ads%20and%20trackers.txt) | 
-Mining pages | Block all mining pages | 34.491 | [list](https://raw.githubusercontent.com/) | 
-Pages with porn (Part 1,2,3) | Block all porn pages | 2.044.266 | [list(1)](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Porn%20pages%20(Part_1).txt) [(2)](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Porn%20pages%20(Part_2).txt) [(3)](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Porn%20pages%20(Part_3).txt) | 
+Ads and trackers | Block ads and trackers | 675.289 | [list](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Ads%20and%20trackers.txt) | 
+Mining pages | Block all mining pages | 34.542 | [list](https://raw.githubusercontent.com/) | 
+Pages with porn | Block all porn pages | 2.044.255 | [list](https://github.com/Amdromeda/Blocklist-Pi-Hole/blob/master/Porn%20pages.txt) | 
 Xiaomi, Mi-Fit, Amazfit | Block all connections | 1.024 | [list](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Xiaomi%2C%20Mi-Fit%2C%20Amazfit.txt) | 
 Amazon FireTV telemetry | Block telemetry domains | 54 | [list](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Amazon%20FireTV%20telemetry.txt) | 
-Windows telemetry | Block all telemetry | 576 | [list](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Windows%20telemetry.txt) | 
-All Facebook telemetry | - | 0 | [list](https://raw.githubusercontent.com/) | 
+Windows telemetry | Block all telemetry | 576 | [list](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Windows%20telemetry.txt) |
 
-## Package Sources
-Sources that are used for each blocklist:
-
-| PACKAGE | SOURCES USED |  
-|:-------:|:-------:|
-**Name** | *-* |
-**Name** | *-* |
-**Name** | *-* |
-**Name** | *-* |
-**Name** | *-* |
 
 ## How to support block lists
 You can support in multiple ways
