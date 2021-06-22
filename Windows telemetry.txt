@@ -1,12 +1,10 @@
-#------------------------------------------------------------------
-#
-#	Report if you find a problem or want to add an address.
-#	MIT License: Copyright (c) 2020 Amdromeda
-#	https://www.github.com/amdromeda
-#	Last update with 576 domains
-#	Last Update: 20/07/2020
-#
-#------------------------------------------------------------------
+#--------------------------------------------------------#
+# Last Update: 22-06-2021
+# Last update with 580 domains
+# MIT License: Copyright (c) 2021 Amdromeda
+# https://github.com/amdromeda/Blocklist-Pi-Hole
+# Report if you find a problem or want to add an address.
+#--------------------------------------------------------#
 
 BN1WNS2011508.wns.windows.com
 OneSettings-bn2.metron.live.com.nsatc.net
@@ -244,6 +242,7 @@ choice.microsoft.com.nsatc.net
 client.wns.windows.com
 co4.telecommand.telemetry.microsoft.com
 co4.telecommand.telemetry.microsoft.com.akadns.net
+compass-ssl.xboxlive.com	
 compatexchange.cloudapp.net
 compatexchange1.trafficmanager.net
 continuum.dds.microsoft.com
@@ -428,6 +427,7 @@ msnbot-207-46-194-33.search.msn.com
 msnbot-65-52-108-33.search.msn.comments
 msnbot-65-55-108-23.search.msn.com
 msntest.serving-sys.com
+musicart.xboxlive.com	
 nav.smartscreen.microsoft.com
 nexus.officeapps.live.com
 nexusrules.officeapps.live.com
@@ -583,4 +583,5 @@ windowsupdate.com
 windowsupdate.microsoft.com
 ws.microsoft
 wustat.windows.com
+xsts.auth.xboxlive.com
 ztd.dds.microsoft.com
