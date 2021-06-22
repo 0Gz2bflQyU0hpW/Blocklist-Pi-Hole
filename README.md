@@ -14,7 +14,7 @@ Mining pages | Block all mining pages | 34.542 | [list](https://raw.githubuserco
 Pages with porn | Block all porn pages | 2.044.255 | [list](https://github.com/Amdromeda/Blocklist-Pi-Hole/blob/master/Porn%20pages.txt) | 
 Xiaomi, Mi-Fit, Amazfit | Block all connections | 1.027 | [list](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Xiaomi%2C%20Mi-Fit%2C%20Amazfit.txt) | 
 Amazon FireTV telemetry | Block telemetry domains | 54 | [list](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Amazon%20FireTV%20telemetry.txt) | 
-Windows telemetry | Block all telemetry | 576 | [list](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Windows%20telemetry.txt) |
+Windows telemetry | Block all telemetry | 580 | [list](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Windows%20telemetry.txt) |
 
 
 ## How to support block lists
