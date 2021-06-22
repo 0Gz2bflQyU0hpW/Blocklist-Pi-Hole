@@ -1,10 +1,10 @@
-#------------------------------------------------------------#
-# Last Update: 12-12-2020
-# Last update with 1.024 domains
-# MIT License: Copyright (c) 2020 Amdromeda
-# https://www.github.com/amdromeda/Blocklist-Pi-Hole
+#--------------------------------------------------------#
+# Last Update: 22-06-2021
+# Last update with 1.027 domains
+# MIT License: Copyright (c) 2021 Amdromeda
+# https://github.com/amdromeda/Blocklist-Pi-Hole
 # Report if you find a problem or want to add an address.
-#------------------------------------------------------------#
+#--------------------------------------------------------#
 
 51modo.cc
 a.hl.mi.com
@@ -327,6 +327,7 @@ data-mistat-india-xiaomi-com-1248219176.ap-south-1.elb.amazonaws.com
 data.game.xiaomi.com
 data.mistat.india.xiaomi.com
 data.mistat.intl.xiaomi.com
+data.mistat.intl.xiaomi.com	
 data.mistat.rus.xiaomi.com
 data.mistat.us.xiaomi.com
 data.mistat.xiaomi.com
@@ -424,6 +425,7 @@ fotacontrol.adfuture.cn
 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
 fr-app-chat-global-xiaomi-net1-1667981913.eu-central-1.elb.amazonaws.com
 fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com
+fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com	
 fr.api.xmpush.global.xiaomi.com
 fr.app.chat.global.xiaomi.net
 fr.feedback.xmpush.global.xiaomi.com
@@ -777,6 +779,7 @@ sdk.open.phone.igexin.com
 sdk.open.talk.gepush.com
 sdk.open.talk.igexin.com
 sdkconfig.ad.intl.xiaomi.com
+sdkconfig.ad.intl.xiaomi.com	
 sdkconfig.ad.xiaomi.com
 sds.api.xiaomi.com
 sec-cdn.static.xiaomi.net
