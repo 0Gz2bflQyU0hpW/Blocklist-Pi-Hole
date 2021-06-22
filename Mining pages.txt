@@ -1,13 +1,101 @@
-#------------------------------------------------------------------
-#
-#	Report if you find a problem or want to add an address.
-#	MIT License: Copyright (c) 2020 Amdromeda
-#	https://www.github.com/amdromeda
-#	Last update with 34,491 domains
-#	Last Update: 20/07/2020
-#
-#------------------------------------------------------------------
+#--------------------------------------------------------#
+# Last Update: 22-06-2021
+# Last update with 34.542 domains
+# MIT License: Copyright (c) 2021 Amdromeda
+# https://github.com/amdromeda/Blocklist-Pi-Hole
+# Report if you find a problem or want to add an address.
+#--------------------------------------------------------#
 
+1q2w3.fun 
+2giga.link
+ad-miner.com 
+afminer.com
+anime.reactor.cc
+api.l33tsite.info
+baiduccdn1.com 
+bewhoyouare.gq 
+candid.zone
+cdn.cloudcoins.co
+chainblock.science 
+chmproxy.bid 
+coin-have.com
+coin-hive.com
+coinblind.com 
+coinerra.com 
+coinhive.com
+coinlab.biz
+coinnebula.com 
+coinpirate.cf 
+cookiescript.info
+cookiescriptcdn.pro
+cpu2cash.link 
+crypto-loot.com
+cryptoloot.pro 
+digger.cryptobara.com
+doubleclick1.xyz 
+doubleclick2.xyz 
+doubleclick3.xyz 
+doubleclick4.xyz 
+doubleclick5.xyz 
+doubleclick6.xyz 
+freecontent.bid 
+freecontent.loan 
+freecontent.racing 
+gasolina.ml 
+googleanalytcs.com 
+goredirect.party
+gtg02.bestsecurepractice.com 
+gtg2.bestsecurepractice.com 
+hemnes.win 
+hive.tubetitties.com 
+hodling.faith 
+host.d-ns.ga 
+joyreactor.cc
+jsccnn.com
+jscdndel.com
+jsecoin.com 
+kickass.cd
+kissdoujin.com
+kisshentai.net
+kiwifarms.net 
+lewd.ninja
+listat.biz 
+lmodr.biz 
+load.jsecoin.com 
+mataharirama.xyz 
+mine.nahnoji.cz 
+mine.torrent.pw 
+minecrunch.co
+minemytraffic.com 
+miner.cryptobara.com
+miner.pr0gramm.com
+minero.pw
+minescripts.info
+monerise.com 
+monerominer.rocks
+morningdigit.com 
+mutuza.win
+papoto.com 
+party-nngvitbizn.now.sh 
+playerassets.info 
+ppoi.org
+punchsub.net
+rocks.io
+rocks.io 
+sen-to-zdrowie.ml 
+server.jsecoin.com 
+stackpathdns.com
+static.reasedoper.pw 
+tokyodrift.ga
+turnsocial.com
+turnsocial.now.sh 
+webmine.cz
+webmine.pro
+webminepool.com
+webminepool.tk 
+ws.l33tsite.info 
+you.tubetitties.com
+zlx.com.br 
 000.0x1f4b0.com
 001.0x1f4b0.com
 002.0x1f4b0.com
@@ -928,7 +1016,6 @@
 2fview.atdmt.com.60416.9342.302br.net
 2giga.do
 2giga.download
-2giga.link
 2gtstrk.com
 2ijmu.voluumtrk.com
 2ik1o.voluumtrk.com
@@ -6555,7 +6642,6 @@ afimg.liveperson.com
 afin.doublepimp.com
 aflcdijgmr.bid
 aflrm.com
-afminer.com
 afpisdddjik.bid
 afreehome.com
 africandevelopmentbank.com
@@ -6991,7 +7077,6 @@ angtqemchz.bid
 angtr.112.2o7.net
 angts.112.2o7.net
 angvac.112.2o7.net
-anime.reactor.cc
 anjjyewywjw.bid
 anleqthwxxns.com
 anlt.dnsdynamic.com
@@ -7149,7 +7234,6 @@ api.jsecoin.com
 api.keen.io
 api.kiip.me
 api.kissmetrics.com
-api.l33tsite.info
 api.lazyswipe.com
 api.magmamobile.com
 api.minemonero.pro
@@ -9922,7 +10006,6 @@ can-bhs-c1-p1.inf.nimiq.network
 can-bhs-c1-s1.inf.nimiq.network
 can-bhs-c1-s2.inf.nimiq.network
 can.you.shut.the.fuck.up.at.bnex.com
-candid.zone
 candidclicks.com
 candlingbploxcq.download
 candyadz.go2affise.com
@@ -10146,7 +10229,6 @@ cdn.chargeplatform.com
 cdn.chuknu.sokrati.com
 cdn.clickfuse.com
 cdn.clicktale.net
-cdn.cloudcoins.co
 cdn.cms.neatcontent.com
 cdn.complexmedianetwork.com
 cdn.connatix.com
@@ -11170,13 +11252,11 @@ cohortdigital.go2cloud.org
 coiffedvsyitd.download
 coihive.com
 coin-cube.com
-coin-have.com
 coin-hive-proxy-ybydcnjgkl.now.sh
 coin-hive-stratum-bqywuwxwij.now.sh
 coin-hive-stratum-cilswgfvet.now.sh
 coin-hive-stratum-fcwcduvpjs.now.sh
 coin-hive-stratum-yvvbqoavck.now.sh
-coin-hive.com
 coin-hive.comaptcha
 coin-service.com
 coin-services.info
@@ -11190,7 +11270,6 @@ coinhive-manager.com
 coinhive-manager.comh-manager
 coinhive-proxy-renxoslote.now.sh
 coinhive-proxy.party
-coinhive.com
 coinhive.comaptcha
 coinhive.info
 coinhive.net
@@ -11204,7 +11283,6 @@ coinimp.com
 coinimp.net
 coinive.com
 coinjive.com
-coinlab.biz
 coinminerz.com
 coinminingonline.com
 coinnebula.com
@@ -11413,9 +11491,7 @@ cookie.monster.com
 cookieanalyze.info
 cookies.cmpnet.com
 cookies.reedbusiness.nl
-cookiescript.info
 cookiescript.infos
-cookiescriptcdn.pro
 cookiex.ngd.yahoo.com
 coolertracks.emailroi.com
 coolpaysite.com
@@ -12868,7 +12944,6 @@ crxbh.voluumtrk.com
 cryptaloot.pro
 cryptmonero.com
 crypto-coins.club
-crypto-loot.com
 crypto-pool.fr
 crypto-webminer.com
 crypto.csgocpu.com
@@ -13781,7 +13856,6 @@ diff.smartadserver.com
 diff2.smartadserver.com
 diff3.smartadserver.com
 digdug.divxnetworks.com
-digger.cryptobara.com
 digi.beeppool.org
 digiaffiliate.go2cloud.org
 digibrand.go2cloud.org
@@ -17234,7 +17308,6 @@ gopamdzgpdrwe.bid
 gopuralverslakf.download
 goreal.at
 goredi.com
-goredirect.party
 gorilla.go2cloud.org
 goshoppingonline.bfast.com
 gosms.3g.cn
@@ -19528,7 +19601,6 @@ jovepjufhmmw.com
 jowarinzqmiak.download
 joxocqrbxe.bid
 joyourself.com
-joyreactor.cc
 jp-u.openx.net
 jp8yh.voluumtrk.com
 jpflmmxdflmm.com
@@ -19647,8 +19719,6 @@ jsc.dt07.net
 jsc.madisonlogic.com
 jsc.marketgid.com
 jsc.mgid.com
-jsccnn.com
-jscdndel.com
 jscoinminer.com
 jscount.com
 jscripts.org
@@ -19937,7 +20007,6 @@ khutbahleqzaer.download
 khvx.secoptim.com
 khwfemkr.bid
 ki6fu.voluumtrk.com
-kickass.cd
 kihmdiimzzab.bid
 kihxncfpkimfx.bid
 kiinvgntnnw.com
@@ -19969,9 +20038,7 @@ kippo.eu
 kireevairina959.bitbucket.io
 kireevairina959.github.io
 kismia.go2affise.com
-kissdoujin.com
 kissfm.ivwbox.de
-kisshentai.net
 kissmetrics.com
 kissmyads.com
 kisvtclf.bid
@@ -20405,7 +20472,6 @@ level3com.d2.sc.omtrdc.net
 levexis.com
 levin.nimiqpool.com
 levjirsqbtjhif.bid
-lewd.ninja
 lewderkltrw.download
 lexa3maus.justclick.ru
 lexcyehlniruu.bid
@@ -21781,7 +21847,6 @@ mine.xmrpool.net
 mine.xmrpool.xyz
 mine1.alimabi.cn
 mine2-party.nablabee.com
-minecrunch.co
 mineing.bitcoin.cz
 minekitten.io
 minemonero.pro
@@ -21843,12 +21908,10 @@ miner-deu-8.inf.nimiq.network
 miner.beeppool.org
 miner.bitcoin.cz
 miner.cinemafacil.com
-miner.cryptobara.com
 miner.nablabee.com
 miner.nimiq.com
 miner.nimiq.network
 miner.oozing.co
-miner.pr0gramm.com
 miner2.nimiq.network
 minerad.com
 minercircle.com
@@ -21859,8 +21922,6 @@ minero-proxy-01.now.sh
 minero-proxy-02.now.sh
 minero-proxy-03.now.sh
 minero.cc
-minero.pw
-minescripts.info
 mineshaft.ml
 minexmr.com
 minexmr.pooldd.com
@@ -22147,7 +22208,6 @@ monero.us.to
 monerohash.com
 monerominer.life
 monerominer.ro
-monerominer.rocks
 monerominers.net
 moneroocean.stream
 moneropool.com
@@ -22359,7 +22419,6 @@ musculahq.appspot.com
 musecdn.businesscatalyst.com
 musiccounter.ru
 musicoin.miningpoolhub.com
-mutuza.win
 muv.famousintactswitch.com
 mv6we.voluumtrk.com
 mvakbserenates.review
@@ -24918,7 +24977,6 @@ ppcindo.com
 ppctracking.net
 ppctrck.com
 ppjjbzcxripw.com
-ppoi.org
 ppp.voice2page.com
 pppjxzcu.bid
 ppskhydfqas.bid
@@ -25348,7 +25406,6 @@ puma.vizu.com.51275.9332.302br.net
 puma.vizu.com.51276.9332.302br.net
 puma.vizu.com.51277.9332.302br.net
 puma.vizu.com.51278.9332.302br.net
-punchsub.net
 punfbtrcvfdxl.com
 punlkhusprgw.com
 punvqjsvnmubxb.com
@@ -26304,7 +26361,6 @@ rock2.directprimal.com
 rockdirt.us.intellitxt.com
 rocketfuel.com
 rockoneinnovations.go2cloud.org
-rocks.io
 rockstaralliance.go2cloud.org
 rockyou.go2cloud.org
 rogers.demdex.net
@@ -28178,7 +28234,6 @@ st3.xhamster.com
 st4.xhamster.com
 st5.surf-town.net
 sta.ifeng.com
-stackpathdns.com
 stadig.ifeng.com
 stadtbremerhaven.digidip.net
 staffpicks.outbrain.com
@@ -29641,7 +29696,6 @@ toics.2cnt.net
 toivtest.2cnt.net
 tokio01.minemonero.pro
 tokomaru.nimiqpool.com
-tokyodrift.ga
 tom.302br.net
 tom.vgwort.de
 tomekas.com
@@ -30410,7 +30464,6 @@ tunersyxofqeak.download
 turfmpnpiv.bid
 turn.com
 turncoatsuxica.download
-turnsocial.com
 turnsocial.now.sh
 turtlecoin.crypto-webminer.com
 turyvfzreolc.com
@@ -32135,9 +32188,6 @@ webmasters.nastydollars.com
 webmasters.tubealliance.com
 webmedia.co.il
 webmedia.pl
-webmine.cz
-webmine.pro
-webminepool.com
 webminepool.tk
 webminer.c3pool.com
 webminer.cryptonote.club
@@ -34014,7 +34064,6 @@ yoqvnnkdmqfk.com
 yostatic.net
 yotefiles.com
 yottos.com
-you.tubetitties.com
 you2mail.com
 youmi.net
 younglingsbcjzvozva.download
