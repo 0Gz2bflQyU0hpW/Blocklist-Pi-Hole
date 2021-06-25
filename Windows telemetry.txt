@@ -1,6 +1,5 @@
 #--------------------------------------------------------#
-# Last Update: 22-06-2021
-# Last update with 580 domains
+# Last Update: 25-06-2021 with 579 domains
 # MIT License: Copyright (c) 2021 Amdromeda
 # https://github.com/amdromeda/Blocklist-Pi-Hole
 # Report if you find a problem or want to add an address.
@@ -269,6 +268,7 @@ df.telemetry.microsoft.com
 diagnostics.support.microsoft.com
 directory.services.live.com
 dlassets-ssl.xboxlive.com
+dmd.metaservices.microsoft.com/
 dns.msftncsi.com
 docs.watson.microsoft.com
 download.windowsupdate.com
@@ -292,6 +292,7 @@ evoke-windowsservices-tas.msedge.net
 fe2.update.microsoft.com.akadns.net
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 fe3.delivery.mp.microsoft.com
+fe3cr.delivery.mp.microsoft.com/
 feedback.microsoft-hohm.com
 feedback.search.microsoft.com
 feedback.windows.com
@@ -382,8 +383,6 @@ hk2sch130022135.wns.windows.com
 hk2wns1.wns.windows.com
 hk2wns1b.wns.windows.com
 hostedocsp.globalsign.com
-http://dmd.metaservices.microsoft.com/
-http://fe3cr.delivery.mp.microsoft.com/
 i-bl6p-cor001.api.p001.1drv.com
 i-bl6p-cor002.api.p001.1drv.com
 i-bn3p-cor001.api.p001.1drv.com
