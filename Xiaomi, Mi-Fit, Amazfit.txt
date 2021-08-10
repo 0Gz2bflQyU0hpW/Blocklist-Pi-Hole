@@ -1,5 +1,5 @@
 #--------------------------------------------------------#
-# Last Update: 25-06-2021 with 1.027 domains
+# Last Update: 10-08-2021 with 1.071 domains
 # MIT License: Copyright (c) 2021 Amdromeda
 # https://github.com/amdromeda/Blocklist-Pi-Hole
 # Report if you find a problem or want to add an address.
@@ -32,9 +32,11 @@ account-sg2.huami.com
 account-us.huami.com
 account.ai.xiaomi.com
 account.huami.com
+account.jetbrains.com
 account.preview.n.xiaomi.net
 account.xiaomi.com
 account.xiaomi.com.adserver.com
+accountapi.agoda.com
 acheel.dmp.ad.xiaomi.com
 activeqq.3g.qq.com
 activity.browser.intl.miui.com
@@ -57,6 +59,7 @@ adv.sec.miui.com
 adview.cn
 advmob.cn
 aemail.xiaomi.com
+agoda.com
 ai.api.xiaomi.com
 ai.xiaomi.com
 aiasst.xiaomi.com
@@ -127,6 +130,7 @@ api.ad.xiaomi.com.adserver.com
 api.admob.xiaomi.com
 api.ai.xiaomi.com
 api.amazfit.com
+api.aurogon.intl.miui.com
 api.bbs.miui.com
 api.browser.intl.miui.com
 api.browser.miui.com
@@ -156,10 +160,12 @@ api.io.mi.com
 api.jr.mi.com
 api.kuai.mvideo.xiaomi.com
 api.launcher.intl.miui.com
+api.likee.video
 api.meishesdk.com
 api.micloud.xiaomi.net
 api.mistat.xiaomi.com
 api.miui.security.xiaomi.com
+api.miwifi.com
 api.newsfeed.intl.miui.com
 api.passbook.xiaomi.com
 api.pay.xiaomi.com
@@ -214,6 +220,7 @@ appwall.ad.intl.xiaomi.com
 assistant.api.xiaomi.com
 assistant.pandora.xiaomi.com
 astat.bugly.qq.com
+au.ff.avast.sec.miui.com
 auth.be.sec.intl.miui.com
 auth.be.sec.miui.com
 auth.huami.com
@@ -231,6 +238,7 @@ bargain.staging.mifi.pt.xiaomi.com
 bbs.game.xiaomi.com
 bbs.huami.com
 be.xiaomi.com
+be01.hh.xiaomi.com
 beha.ksmobile.com
 behacdn.ksmobile.net
 behacdn.ksmobile.sec.miui.com
@@ -246,6 +254,7 @@ billapi.xiaomi.com
 bjmail.xiaomi.com
 bk01.hh.xiaomi.com
 blog.xiaomi.com
+bookapi.agoda.com
 boss.mvideo.xiaomi.com
 branding.ad.xiaomi.com
 broker.mqtt.pandora.xiaomi.com
@@ -296,6 +305,7 @@ cloudml.api.xiaomi.com
 cm.adkmob.com
 cm066.getui.igexin.com
 cms.nfcpay.xiaomi.com
+cn.app.chat.xiaomi.net
 cn.register.xmpush.xiaomi.com
 cnbj2.vision.api.xiaomi.com
 cnbj3.api.xiaomi.com
@@ -326,7 +336,6 @@ data-mistat-india-xiaomi-com-1248219176.ap-south-1.elb.amazonaws.com
 data.game.xiaomi.com
 data.mistat.india.xiaomi.com
 data.mistat.intl.xiaomi.com
-data.mistat.intl.xiaomi.com	
 data.mistat.rus.xiaomi.com
 data.mistat.us.xiaomi.com
 data.mistat.xiaomi.com
@@ -345,6 +354,9 @@ device.account.xiaomi.com
 diagnosis.ad.intl.xiaomi.com
 diagnosis.ad.xiaomi.com
 dialin.xiaomi.com
+discover.glance.com
+discover.miui.com
+dlg.io.mi.com
 dmp.ad.xiaomi.com
 dms.xiaomi.com
 docker.pt.xiaomi.com
@@ -377,6 +389,7 @@ f.hiphotos.baidu.com
 f1.g.mi.com
 f1.market.xiaomi.com
 f10.market.xiaomi.com
+f17.market.xiaomi.com
 f2.market.xiaomi.com
 f3.market.xiaomi.com
 f4.market.xiaomi.com
@@ -399,17 +412,20 @@ fe-cdn.huami.com
 fe-static.huami.com
 fe02.lg.xiaomi.com
 fe05.lg.xiaomi.com
+feedback.intl.miui.com
 feedback.miui.com
 feedback.pt.intl.xiaomi.com
 feedback.pt.rus.xiaomi.com
 feedback.xmpush.global.xiaomi.com
 feedback.xmpush.xiaomi.com
 fga0.market.xiaomi.com
+fgb0.market.xiaomi.com
 file.ai.xiaomi.com
 file.cdn.mvideo.xiaomi.com
 file.market..xiaomi.com
 file.market..xiaomi.comF
 file.market.xiaomi.com
+file.static.xiaomi.net
 file.xmpush.xiaomi.com
 files.ai.xiaomi.com
 find.api.micloud.xiaomi.net
@@ -424,7 +440,6 @@ fotacontrol.adfuture.cn
 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
 fr-app-chat-global-xiaomi-net1-1667981913.eu-central-1.elb.amazonaws.com
 fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com
-fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com	
 fr.api.xmpush.global.xiaomi.com
 fr.app.chat.global.xiaomi.net
 fr.feedback.xmpush.global.xiaomi.com
@@ -449,8 +464,10 @@ geofence.sys.miui.com
 gl.maf.be.xiaomi.com
 gl.mal.be.xiaomi.com
 gl.xms.be.xiaomi.com
+glance.com
 global.api.huangye.miui.com
 global.developer.xiaomi.com
+global.market.xiaomi.com
 global.preview.app.market.pt.xiaomi.com
 global.search.xiaomi.net
 global.video.intl.xiaomi.com
@@ -463,6 +480,7 @@ grid.amap.com
 gt.mo.intl.xiaomi.com
 guanxiaomian.com
 gvod.aiseejapp.atianqi.com
+gw.agoda.com
 gw.pay.xiaomi.com
 gwpay.xiaomi.com
 h0.market.xiaomi.com
@@ -508,10 +526,16 @@ i.lg.api.xmpush.xiaomi.com
 i.mi.com
 i.mi.com.adserver.com
 i.xiaomi.com
+i2-urc.io.mi.com
+i2.api.io.mi.com
 iauth.pt.xiaomi.com
 ics-oms.ai.xiaomi.com
 id.video.intl.xiaomi.com
 ident.mistat.xiaomi.com
+idmb-app-chat-global-xiaomi-1108233833.ap-south-1.elb.amazonaws.com
+idmb-app-chat-global-xiaomi02-1415306822.ap-south-1.elb.amazonaws.com
+idmb-app-chat-global-xiaomi03new-426797692.ap-south-1.elb.amazonaws.com
+idmb-app-chat-global-xiaomi06-2047145834.ap-south-1.elb.amazonaws.com
 idmb.api.xmpush.global.xiaomi.com
 idmb.app.chat.global.xiaomi.net
 idmb.feedback.xmpush.global.xiaomi.com
@@ -540,6 +564,7 @@ in.smsapi.micloud.xiaomi.net
 in.stagingcredit.pt.xiaomi.com
 in.stat.appmifile.com
 in.stat.mi.com
+in.tv.global.mi.com
 inapi.pay.xiaomi.com
 india.activity.browser.intl.miui.com
 info.analysis.kp.sec.miui.com
@@ -555,13 +580,16 @@ jellyfish.pandora.xiaomi.com
 jira.n.xiaomi.com
 jupiter.intl.sys.miui.com
 kds.market.xiaomi.com
+land.xiaomi.net
 lb-im-11-1803639322.ap-southeast-1.elb.amazonaws.com
+lbs.like.video
 lbs.pandora.xiaomi.com
 lcs.api.xiaomi.com
 lg-bgp.pandora.xiaomi.com
 lg.account.xiaomi.com
 lg.api.xmpush.xiaomi.com
 lg.lp.account.xiaomi.com
+like.video
 litemsg.facemojikeyboard.com
 litestatis.facemojikeyboard.com
 log-abroad.avlyun.sec.miui.com
@@ -628,6 +656,7 @@ milink.pandora.xiaomi.com
 mini.cpc.sogou.com
 mis.g.mi.com
 mis.migc.xiaomi.com
+mis.migc.xiaomi.comfile.m
 misc.pandora.xiaomi.com
 mishop.cdn.pandora.xiaomi.com
 mishop.pandora.xiaomi.com
@@ -685,8 +714,11 @@ openmobile.qq.com
 operation-api-proxy.huami.com
 operation.huami.com
 order.music.xiaomi.com
+ot.io.mi.com
 ot.owms.api.xiaomi.com
 ota.cdn.pandora.xiaomi.com
+ots.io.mi.com
+ott.io.mi.com
 p.alimama.com
 package.box.xiaomi.com
 package.cdn.pandora.xiaomi.com
@@ -738,10 +770,13 @@ r.browser.miui.com
 r.sg.sec.miui.com
 r2.ai.xiaomi.com
 rayaxiaomi.com
+reader.browser.miui.com
 recharge.pay.xiaomi.com
 register.xmpush.global.xiaomi.com
 register.xmpush.xiaomi.com
+relocationapi.micloud.xiaomi.net
 report.adview.cn
+resolver-msg-xiaomi-net-665721575.ap-south-1.elb.amazonaws.com
 resolver.gslb.mi-idc.com
 resolver.msg.global.xiaomi.net
 resolver.msg.xiaomi.net
@@ -773,12 +808,13 @@ sandbox.mibi.api.xiaomi.com
 sandbox.mibi.xiaomi.com
 sandbox.xmpush.xiaomi.com
 scraper.pandora.xiaomi.com
+screentime.comm.miui.com
 sd.lp.account.xiaomi.com
 sdk.open.phone.igexin.com
 sdk.open.talk.gepush.com
 sdk.open.talk.igexin.com
+sdkconfig.ad.india.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
-sdkconfig.ad.intl.xiaomi.com	
 sdkconfig.ad.xiaomi.com
 sds.api.xiaomi.com
 sec-cdn.static.xiaomi.net
@@ -798,6 +834,7 @@ sfbweb.xiaomi.com
 sfsapi.micloud.xiaomi.net
 sg-urc.io.mi.com
 sg.a.stat.mi.com
+sg.api.io.mi.com
 sgp.o2o.api.xiaomi.com
 sgpac.account.xiaomi.com
 share.mvideo.xiaomi.com
@@ -848,6 +885,7 @@ stat.file.market.xiaomi.com
 stat.pandora.xiaomi.com
 stat.pay.xiaomi.com
 stat.xiaomi.com
+static-verify.sec.xiaomi.com
 static.account.xiaomi.com
 static.game.xiaomi.com
 static.haoda.xiaomi.com
@@ -901,6 +939,7 @@ t5.market.mi-img.com
 t5.market.xiaomi.com
 t6.market.mi-img.com
 t6.market.xiaomi.com
+t7.a.market.xiaomi.com
 talos.api.xiaomi.com
 tc.hd.xiaomi.com
 tel.fe01.hh.xiaomi.com
@@ -946,6 +985,7 @@ union.dbba.cn
 unlock.pt.intl.xiaomi.com
 unlock.pt.xiaomi.com
 update.avlyun.sec.miui.com
+update.intl.miui.com
 update.miui.com
 upgrade.mishop.pandora.xiaomi.com
 upload-cdn.huami.com
@@ -977,6 +1017,7 @@ v2.fm.n.duokanbox.com
 v2.reachmax.cn
 vca-prev.ai.xiaomi.com
 vca.ai.xiaomi.com
+verify.sec.xiaomi.com
 video.browser.miui.com
 video.in.intl.xiaomi.com
 video.intl.xiaomi.com
@@ -996,7 +1037,6 @@ watchdog.goodbyeads.xiaomi
 weather.pandora.xiaomi.com
 weatherapi.intl.xiaomi.com
 weatherapi.market.xiaomi.com
-weatherapi.market.xiaomi.coma.stat.xiaomi.com
 web-analytics-cn.huami.com
 web-analytics.huami.com
 web.recharge.pay.xiaomi.com
@@ -1015,14 +1055,17 @@ xiaomi-mipdx.cn.miaozhen.com
 xiaomi-support.com
 xiaomi-support.ru
 xiaomi.com
+xiaomi.discover
 xiaomi.m.cn.miaozhen.com
 xiaomi.net
 xiaomi.support
+xiaomiir.yaokantv.com
 xiazai.xiaomi.com
 xitong.xiaomi.com
 xlmc.sec.miui.com
 xms.be.xiaomi.com
 xshare.api.xiaomi.com
+yun.rili.cn
 yz.docker.pt.xiaomi.com
 yz.marathon.v1.pt.xiaomi.com
 zeus.ad.intl.xiaomi.com
@@ -1031,4 +1074,5 @@ zhaoshang.shenghuo.xiaomi.com
 zhuti.designer.xiaomi.com
 zhuti.intl.xiaomi.com
 zhuti.xiaomi.com
+zhwnlapi.etouch.cn
 zx.game.xiaomi.com
