@@ -1,4 +1,4 @@
-# Amdromeda blocklist for Pi-hole
+# Amdroomeda blocklist for Pi-hole
 Hi, in this repository you will find my blocklists for Pi-Hole (They can be used in some other services)
 
 # Why these DNS lists
@@ -27,7 +27,7 @@ You can support in multiple ways
  Your support will help us keep the project running and provide you quality service.
  
 ## Disclaimer
-Amdromeda blocklists are `hosts files` to block access to domains. If you don't know how it works, then please try this at your own risk. I won't be responsible for any damage or loss.
+Amdroomeda blocklists are `hosts files` to block access to domains. If you don't know how it works, then please try this at your own risk. I won't be responsible for any damage or loss.
 
 ## License
-Content of the Amdromeda is licensed under a [MIT LICENSE](https://github.com/Amdromeda/Blocklist-Pi-Hole/blob/master/LICENSE).
+Content of the Amdromeda is licensed under a [MIT LICENSE](https://github.com/Amdroomeda/Blocklist-Pi-Hole/blob/master/LICENSE).
