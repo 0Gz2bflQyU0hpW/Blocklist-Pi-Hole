@@ -29,4 +29,4 @@ You can support in multiple ways
 Amdroomeda blocklists are `hosts files` to block access to domains. If you don't know how it works, then please try this at your own risk. I won't be responsible for any damage or loss.
 
 ## License / Licencia
-Content of the Amdromeda is licensed under a [MIT LICENSE](https://github.com/Amdroomeda/Blocklist-Pi-Hole/blob/master/LICENSE).
+Content of the Amdromeda is licensed under a [MIT LICENSE](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/LICENSE).
