@@ -7,11 +7,11 @@ Este proyecto pretende unificar las listas de bloqueo de DNS añadiendo mis cont
 ## Detalles de las listas de bloqueo 📖
 |Nombre de la lista|Descripción breve|Numero de entradas|RAW|
 |:-:|:-:|:--:|:--:|
-Ads and trackers | Bloquea anuncios y rastreadores | 675.276 | [list](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Ads%20and%20trackers.txt) | 
-Mining pages | Bloquea paginas y servicios de mineria| 34.539 | [list](https://raw.githubusercontent.com/) | 
-Pages with porn | Bloquea paginas con contenido XXX | 2.048.596 | [list](https://github.com/Amdromeda/Blocklist-Pi-Hole/blob/master/Porn%20pages.txt) | 
-Xiaomi  Mi-Fit  Amazfit  Huami | Bloqueo COMPLETO de cualquier conexión | 1.071 | [list](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Xiaomi%2C%20Mi-Fit%2C%20Amazfit.txt) | 
-Windows telemetry | Bloquea toda la telemetria del SO Windows | 579 | [list](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Windows%20telemetry.txt) |
+Ads and trackers | Bloquea anuncios y rastreadores | 675.276 | [list](https://raw.githubusercontent.com/Amdr0meda/Blocklist_Pi_Hole/master/Ads%20and%20trackers.txt) | 
+Mining pages | Bloquea paginas y servicios de mineria| 34.539 | [list](https://raw.githubusercontent.com/Amdr0meda/Blocklist_Pi_Hole/master/Mining%20pages.txt) | 
+Pages with porn | Bloquea paginas con contenido XXX | 2.048.596 | [list](https://raw.githubusercontent.com/Amdr0meda/Blocklist_Pi_Hole/master/Porn%20pages.txt) | 
+Xiaomi  Mi-Fit  Amazfit  Huami | Bloqueo COMPLETO de cualquier conexión | 1.071 | [list](https://raw.githubusercontent.com/Amdr0meda/Blocklist_Pi_Hole/master/Xiaomi%20Mi-Fit%20Amazfit%20Huami.txt) | 
+Windows telemetry | Bloquea toda la telemetria del SO Windows | 579 | [list](https://raw.githubusercontent.com/Amdr0meda/Blocklist_Pi_Hole/master/Windows%20telemetry.txt) |
 <br/>
 
 ## Pre-requisitos 📋
