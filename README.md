@@ -11,17 +11,17 @@ Ads and trackers | Bloquea anuncios y rastreadores | 675.276 | [list](https://ra
 Mining pages | Bloquea paginas y servicios de mineria| 34.539 | [list](https://raw.githubusercontent.com/Amdr0meda/Blocklist_Pi_Hole/master/Mining%20pages.txt) | 
 Pages with porn | Bloquea paginas con contenido XXX | 2.048.596 | [list](https://raw.githubusercontent.com/Amdr0meda/Blocklist_Pi_Hole/master/Porn%20pages.txt) | 
 Xiaomi  Mi-Fit  Amazfit  Huami | Bloqueo COMPLETO de cualquier conexión | 1.071 | [list](https://raw.githubusercontent.com/Amdr0meda/Blocklist_Pi_Hole/master/Xiaomi%20Mi-Fit%20Amazfit%20Huami.txt) | 
-Windows telemetry | Bloquea toda la telemetria del SO Windows | 579 | [list](https://raw.githubusercontent.com/Amdr0meda/Blocklist_Pi_Hole/master/Windows%20telemetry.txt) |
+Windows telemetry | Bloquea toda la telemetria del SO Windows | 1.012 | [list](https://raw.githubusercontent.com/Amdr0meda/Blocklist_Pi_Hole/master/Windows%20telemetry.txt) |
 <br/>
 
 ## Pre-requisitos 📋
-Unicamente debes tener instalado en el Pi-Hole, puedes hacerlo mediante el siguiente comando:
+Unicamente debes tener instalado el servicio Pi-Hole, puedes hacerlo en la terminal mediante el siguiente comando:
 
 `curl -sSL https://install.pi-hole.net | bash`
 <br/><br/>
 
 ## Como instalar y utilizar 🔧
-Cada lista tiene un enlace RAW, debe copiarse esa dirección.
+En la tabla descriptiva cada lista de bloqueo tiene un enlace RAW, debe copiarse esa dirección y posteriormente añadirla a las listas de bloqueo de Pi-Hole.
 <br/><br/>
 
 ## Como apoyar las listas de bloqueo 🙋
@@ -32,7 +32,7 @@ Tu soporte me ayudará a mantener el proyecto en marcha y sostener unas listas d
 <br/>
 
 ## Autor/es ✒️
-Este repositorio es de Amdr0meda, algunas partes de las listas pertenecen a otros usuarios, los cuales permiten la reutilización y modificación, links a continuación:
+Este repositorio es de Amdr0meda, algunas partes de las listas pertenecen a otros usuarios de internet, los cuales permiten la reutilización y modificación, links a continuación:
 <br/><br/>
 
 ## Descargo de Responsabilidad 🚨
@@ -40,5 +40,5 @@ Las listas de bloqueo de Amdr0meda son `archivos de hosts` para bloquear el acce
 <br/><br/>
 
 ## Licencia 📄
-El contenido de la Amdr0meda tiene una licencia de [MIT LICENSE](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/LICENSE).
+El contenido de la Amdr0meda tiene una licencia de [MIT LICENSE](https://raw.githubusercontent.com/Amdr0meda/Blocklist_Pi_Hole/master/LICENSE).
 <br/><br/>
