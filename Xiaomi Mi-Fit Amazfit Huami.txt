@@ -1,10 +1,16 @@
 #--------------------------------------------------------#
-# Last Update: 10-08-2021 with 1.071 domains
+# Last Update: 02-11-2021 with 1.076 domains
 # MIT License: Copyright (c) 2021 Amdromeda
 # https://github.com/amdromeda/Blocklist-Pi-Hole
 # Report if you find a problem or want to add an address.
 #--------------------------------------------------------#
 
+resolver.msg.global.xiaomi.net
+de.api.io.mi.com
+m.buy.mi.com	
+cdn.alsgp0.fds.api.mi-img.com	
+go.buy.mi.com
+sg.stat.appmifile.com
 51modo.cc
 a.hl.mi.com
 a.market.xiaomi.com
@@ -778,7 +784,6 @@ relocationapi.micloud.xiaomi.net
 report.adview.cn
 resolver-msg-xiaomi-net-665721575.ap-south-1.elb.amazonaws.com
 resolver.gslb.mi-idc.com
-resolver.msg.global.xiaomi.net
 resolver.msg.xiaomi.net
 restapi.amap.com
 router.tracking.miui.com
