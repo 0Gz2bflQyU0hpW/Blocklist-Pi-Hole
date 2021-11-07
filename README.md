@@ -1,4 +1,4 @@
-# AMDR0MEDA BLOCKLIST PIHOLE
+# Amdr0meda Blocklist para Pi-hole
 En este repositorio encontrarás mis listas de bloqueo personalizadas para el servicio PiHole. (Pi-hole es una aplicación para bloqueo de anuncios y rastreadores en Internet que actúa como un sumidero de DNS). Se pueden llegar a usar en servicios parecidos, AdGuard, Ublock...
 <br/><br/>
 ## Porque estas listas DNS 🔍
