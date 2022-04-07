@@ -1,5 +1,5 @@
 #--------------------------------------------------------#
-# Last Update: 10-10-2021 with 1.012 domains
+# Last Update: 7 April 2022 with 1.012 domains
 # MIT License: Copyright (c) 2021 Amdr0meda
 # https://github.com/amdr0meda/Blocklist_Pi_Hole
 # Report if you find a problem or want to add an address.
@@ -905,7 +905,6 @@ statsfe2.ws.microsoft.com.nsatc.net
 store-images.s-microsoft.com
 storecatalogrevocation.storequality.microsoft.com
 su3.mcafee.com
-support.microsoft.com
 support.msn.microsoft.akadns.net
 survey.watson.microsoft.com
 sway-cdn.com
