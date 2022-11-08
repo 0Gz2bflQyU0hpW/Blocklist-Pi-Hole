@@ -1,44 +1,50 @@
-# Amdromeda blocklist for Pi-hole
-Hi, in this repository you will find my blocklists for Pi-Hole (They can be used in some other services)
+# Amdr0meda Blocklist para Pi-hole
+En este repositorio encontrarás mis listas de bloqueo personalizadas para el servicio PiHole. (Pi-hole es una aplicación para bloqueo de anuncios y rastreadores en Internet que actúa como un sumidero de DNS). Se pueden llegar a usar en servicios parecidos, AdGuard, Ublock...
+<br/><br/>
+## Porque estas listas DNS 🔍
+Este proyecto pretende unificar las listas de bloqueo de DNS añadiendo mis contribuciones, eliminando falsos positivos, manteniendo estas libres de errores y optimizadas. Te invito a que me ayudes en esta tarea.
+<br/><br/>
+## Detalles de las listas de bloqueo 📖
+|Nombre de la lista|Descripción breve|Numero de entradas|RAW|
+|:-:|:-:|:--:|:--:|
+Ads and trackers | Bloquea anuncios y rastreadores | 675.276 | [list](https://raw.githubusercontent.com/Amdr0meda/Blocklist_Pi_Hole/master/Ads%20and%20trackers.txt) | 
+Mining pages | Bloquea paginas y servicios de mineria| 34.539 | [list](https://raw.githubusercontent.com/Amdr0meda/Blocklist_Pi_Hole/master/Mining%20pages.txt) | 
+Pages with porn | Bloquea paginas con contenido XXX | 2.048.596 | [list](https://raw.githubusercontent.com/Amdr0meda/Blocklist_Pi_Hole/master/Porn%20pages.txt) | 
+Xiaomi  Mi-Fit  Amazfit  Huami | Bloqueo COMPLETO de cualquier conexión | 1.076 | [list](https://raw.githubusercontent.com/Amdr0meda/Blocklist_Pi_Hole/master/Xiaomi%20Mi-Fit%20Amazfit%20Huami.txt) | 
+Windows telemetry | Bloquea toda la telemetria del SO Windows | 1.012 | [list](https://raw.githubusercontent.com/Amdr0meda/Blocklist_Pi_Hole/master/Windows%20telemetry.txt) |
+<br/>
 
-# Why these DNS lists
-This project aims to unify the DNS blocklists by adding my contributions, keeping the lists error free and optimized. I believe in privacy and I think it is necessary to have lists that block certain addresses.
+## Pre-requisitos 📋
+Unicamente debes tener instalado el servicio Pi-Hole, puedes hacerlo en la terminal mediante el siguiente comando:
 
-Here you will find the most extensive and cleanest lists. I invite you to help me in this task.
+`curl -sSL https://install.pi-hole.net | bash`
+<br/><br/>
 
-## BlockList details
-| LIST NAME | DESCRIPTION | ENTRIES (domains) | RAW / TXT |
-|:---------:|:-------:|:--------------:|:---------:|
-Ads servers | Block ads and trackers | 680.916 | [list](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Ads%20and%20trackers.txt) | 
-Mining pages | Block all mining pages | 34.491 | [list](https://raw.githubusercontent.com/) | 
-Pages with porn (Part 1,2,3) | Block all porn pages | 2.043.329 | [list](https://raw.githubusercontent.com/) | 
-Xiaomi, Mi-Fit, Amazfit | Block all connections | 1.018 | [list](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Xiaomi%2C%20Mi-Fit%2C%20Amazfit.txt) | 
-All Facebook telemetry | - | 0 | [list](https://raw.githubusercontent.com/) | 
-Amazon FireTV telemetry | Block telemetry domains | 54 | [list](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Amazon%20FireTV%20telemetry.txt) | 
-Windows telemetry | Block all telemetry | 576 | [list](https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Windows%20telemetry.txt) | 
+## Como instalar y utilizar 🔧
+En la tabla descriptiva cada lista de bloqueo tiene un enlace RAW, debe copiarse esa dirección y posteriormente añadirla a las listas de bloqueo.<br/>
 
-## Package Sources
-Sources that are used for each blocklist:
+1º	Accede al panel de control, en el lateral izquierdo haz click en `Group Management` y posteriormente en `Adlist`.<br/><br/>
+![Imagen 1](https://github.com/Amdr0meda/Blocklist_Pi_Hole/blob/master/readme_imagenes/group_management.png)<br/><br/><br/>
+2º	Una vez dentro pegar la url en el campo `Address` y pulsar el botón `Add` para añadirla. (Repetir por cada lista que queramos añadir)<br/><br/>
+![Imagen 2](https://github.com/Amdr0meda/Blocklist_Pi_Hole/blob/master/readme_imagenes/address_add.png)<br/><br/><br/>
+3º	En el panel izquierdo haz click en `Tools` y posteriormente en `Update Gravity`, dentro de la pestaña pulsar el botón `Update`.<br/><br/>
+![Imagen 3](https://github.com/Amdr0meda/Blocklist_Pi_Hole/blob/master/readme_imagenes/tools_update_gravity_update.png)<br/><br/>
 
-| PACKAGE | SOURCES USED |  
-|:-------:|:-------:|
-**Name** | *-* |
-**Name** | *-* |
-**Name** | *-* |
-**Name** | *-* |
-**Name** | *-* |
+## Como apoyar las listas de bloqueo 🙋
+Tu soporte me ayudará a mantener el proyecto en marcha y sostener unas listas de calidad. Puedes apoyar de múltiples maneras:
+- Enviar falsos positivos
+- Enviar nuevas url a bloquear
+- Compartir con otros usuarios
+<br/>
 
-## How to support block lists
-You can support in multiple ways
+## Autor/es ✒️
+Este repositorio es de Amdr0meda, algunas partes de las listas pertenecen a otros usuarios de internet, los cuales permiten la reutilización y modificación, links a continuación:
+<br/><br/>
 
- ➤ Submit false positives
- ➤ Submit new sources
- ➤ Broadcast with other users
- 
- Your support will help us keep the project running and provide you quality service.
- 
-## Disclaimer
-Amdromeda blocklists are `hosts files` to block access to domains. If you don't know how it works, then please try this at your own risk. I won't be responsible for any damage or loss.
+## Descargo de Responsabilidad 🚨
+Las listas de bloqueo de Amdr0meda son `archivos de hosts` para bloquear el acceso a los dominios / sitios web. Si no sabes cómo funciona, por favor lee el apartado de instalación y utilización. Intenta esto bajo tu propio riesgo, no me hago responsable de cualquier daño, pérdida o problema causado.
+<br/><br/>
 
-## License
-Content of the Amdromeda is licensed under a [MIT LICENSE](https://github.com/Amdromeda/Blocklist-Pi-Hole/blob/master/LICENSE).
+## Licencia 📄
+El contenido de la Amdr0meda tiene una licencia de [MIT LICENSE](https://raw.githubusercontent.com/Amdr0meda/Blocklist_Pi_Hole/master/LICENSE).
+<br/><br/>

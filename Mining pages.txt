@@ -1,12 +1,9 @@
-#------------------------------------------------------------------
-#
-#	Report if you find a problem or want to add an address.
-#	MIT License: Copyright (c) 2020 Amdromeda
-#	https://www.github.com/amdromeda
-#	Last update with 34,491 domains
-#	Last Update: 20/07/2020
-#
-#------------------------------------------------------------------
+#--------------------------------------------------------#
+# Last Update: 25-06-2021 with 34.539 domains
+# MIT License: Copyright (c) 2021 Amdromeda
+# https://github.com/amdromeda/Blocklist-Pi-Hole
+# Report if you find a problem or want to add an address.
+#--------------------------------------------------------#
 
 000.0x1f4b0.com
 001.0x1f4b0.com
@@ -512,6 +509,7 @@
 1phads.com
 1pt.cqcounter.com
 1q2w3.fun
+1q2w3.fun 
 1q2w3.life
 1q2w3.me
 1q2w3.top
@@ -1882,6 +1880,7 @@ ad-lite.com
 ad-maker.net
 ad-media.org
 ad-miner.com
+ad-miner.com 
 ad-rotator.com
 ad-search.com
 ad-server.co.za
@@ -7900,6 +7899,7 @@ bagoojzsqygg.com
 bahuvrihisjcdqhbfv.download
 baiaclwdpztd.com
 baiduccdn1.com
+baiduccdn1.com 
 bajarlo.net
 bajofdblygev.com
 bakjtxvku.bid
@@ -8898,7 +8898,6 @@ bdozkocgkljj.com
 bdrfwkzu.bid
 bdv.bidvertiser.com
 bdyzewccsqpw.com
-be
 be.mobsweet.com
 be.nedstat.net
 be.sitestat.com
@@ -9029,6 +9028,7 @@ beufosew.bid
 bevo.go2cloud.org
 bewaslac.com
 bewhoyouare.gq
+bewhoyouare.gq 
 bewovdhiubnk.com
 bewumuhax.bid
 bexogxapbqict.bid
@@ -10499,6 +10499,7 @@ ch.questionmarket.com
 ch2lb.checkm8.com
 chainblock.sc
 chainblock.science
+chainblock.science 
 chainmychonga.com
 chalkpitqqjpwis.download
 chanalytics.merchantadvantage.com
@@ -10556,6 +10557,7 @@ chip.pl.intellitxt.com
 chippingswbhhaxf.download
 chiybszey.bid
 chmproxy.bid
+chmproxy.bid 
 chnvilhrmeaw.bid
 choice.demdex.net
 choice.microsoft.com
@@ -11182,9 +11184,11 @@ coin-service.com
 coin-services.info
 coin.bajarlo.net
 coinblind.com
+coinblind.com 
 coincharts.now.sh
 coiner.site
 coinerra.com
+coinerra.com 
 coingive.com
 coinhive-manager.com
 coinhive-manager.comh-manager
@@ -11208,7 +11212,9 @@ coinlab.biz
 coinminerz.com
 coinminingonline.com
 coinnebula.com
+coinnebula.com 
 coinpirate.cf
+coinpirate.cf 
 coinpot.co
 coinrail.io
 coins.now.sh
@@ -12753,6 +12759,7 @@ cpolixyndenisles.review
 cpro.baidu.com
 cpro.baidustatic.com
 cpu2cash.link
+cpu2cash.link 
 cpufan.club
 cpv2tracking.com
 cpvads.com
@@ -12877,6 +12884,7 @@ cryptocoinabout.com
 cryptoescrow.eu
 cryptofriends.org
 cryptoloot.pro
+cryptoloot.pro 
 cryptomine.pro
 cryptominingpool.eu
 cryptonight.wasm
@@ -14066,11 +14074,17 @@ doubleclick.net.77654.9663.302br.net
 doubleclick.net.80252.9336.302br.net
 doubleclick.shockwave.com
 doubleclick1.xyz
+doubleclick1.xyz 
 doubleclick2.xyz
+doubleclick2.xyz 
 doubleclick3.xyz
+doubleclick3.xyz 
 doubleclick4.xyz
+doubleclick4.xyz 
 doubleclick5.xyz
+doubleclick5.xyz 
 doubleclick6.xyz
+doubleclick6.xyz 
 doubledeepclick.com
 doug1izaerwt3.cloudfront.net
 dovltuzibsfs.com
@@ -15838,7 +15852,6 @@ fqnabpbdljzq.bid
 fqovfxpsytxf.com
 fqpfvqpptch.com
 fqsdlhaffr.bid
-fr
 fr-db0.suprnova.cc
 fr-db1.suprnova.cc
 fr-db2.suprnova.cc
@@ -16406,6 +16419,7 @@ freecelebvideo.net
 freecodecs.us.intellitxt.com
 freecontent.bi
 freecontent.bid
+freecontent.bid 
 freecontent.com
 freecontent.date
 freecontent.do
@@ -16413,10 +16427,12 @@ freecontent.download
 freecontent.faith
 freecontent.info
 freecontent.loan
+freecontent.loan 
 freecontent.net
 freecontent.pa
 freecontent.party
 freecontent.racing
+freecontent.racing 
 freecontent.re
 freecontent.review
 freecontent.sc
@@ -16701,6 +16717,7 @@ garnishersqcltox.download
 garrigueatcuw.download
 garristo.com
 gasolina.ml
+gasolina.ml 
 gata.ero-advertising.com
 gate.hws.ru
 gateway-banner.eravage.com
@@ -17224,6 +17241,7 @@ googleads2.g.doubleclick.net
 googleads4.g.doubleclick.net
 googleadservices.com
 googleanalytcs.com
+googleanalytcs.com 
 googlesyndication.com
 googletagmanager.com
 googletagservices.com
@@ -17479,7 +17497,9 @@ gtcpsbvtwaqw.com
 gtedtnebrises.review
 gtevyaeeiged.com
 gtg02.bestsecurepractice.com
+gtg02.bestsecurepractice.com 
 gtg2.bestsecurepractice.com
+gtg2.bestsecurepractice.com 
 gthrdhxhwdt.bid
 gtiuy.voluumtrk.com
 gtmonytxxglu.com
@@ -17709,6 +17729,7 @@ help.chartboost.com
 help.doubleclick.net
 help.qualaroo.com
 hemnes.win
+hemnes.win 
 henbaneypgvxgt.download
 henodmetgjbsas.bid
 heracgjcuqmk.com
@@ -17854,6 +17875,7 @@ hitwebcounter.com
 hitwise.co.uk
 hitx.net
 hive.tubetitties.com
+hive.tubetitties.com 
 hiwire.com
 hixuxtufzqcq.com
 hiy.vidzi.tv
@@ -17930,6 +17952,7 @@ hodl.suprnova.cc
 hodlers.pa
 hodlers.party
 hodling.faith
+hodling.faith 
 hohfiknuk.com
 hokehntutt.bid
 holidaypirates.digidip.net
@@ -17991,6 +18014,7 @@ hosqkmnjt.com
 host-tracker.com
 host.clicksor.com
 host.d-ns.ga
+host.d-ns.ga 
 host.leadbolt.com
 host6.hitbox.com
 hostboard.us.intellitxt.com
@@ -19653,6 +19677,7 @@ jscoinminer.com
 jscount.com
 jscripts.org
 jsecoin.com
+jsecoin.com 
 jserr.cnzz.com
 jserror.newrelic.com
 jshosting.bi
@@ -19977,6 +20002,7 @@ kissmyads.com
 kisvtclf.bid
 kitcg.voluumtrk.com
 kiwifarms.net
+kiwifarms.net 
 kizash.com
 kizpkvkdfm.bid
 kjabglumgwbsvq.bid
@@ -20552,6 +20578,7 @@ list.ilius.net
 list.ru
 list2.bravenet.com
 listat.biz
+listat.biz 
 listbot.com
 listenloop.com
 lisyn.voluumtrk.com
@@ -20644,6 +20671,7 @@ lmjklpukbbwxm.bid
 lmjpcirfvt.bid
 lmlttrack.com
 lmodr.biz
+lmodr.biz 
 lmoqmsagyjcurg.bid
 lmwdcdzievq.bid
 lndzkpjtjfjz.bid
@@ -20659,6 +20687,7 @@ lnx.lu
 load.exelator.com
 load.instinctiveads.com
 load.jsecoin.com
+load.jsecoin.com 
 load.nimiqpool.com
 load.sumome.com
 loader.engage.gsfn.us
@@ -21316,6 +21345,7 @@ mastertag.effiliation.com
 masterzonex.com
 mata.ero-advertising.com
 mataharirama.xyz
+mataharirama.xyz 
 match.admailtiser.com
 match.adsrvr.org
 matchbin-assets.s3.amazonaws.com
@@ -21772,10 +21802,12 @@ mine.bitcoin.cz
 mine.gay-hotvideo.net
 mine.moneropool.com
 mine.nahnoji.cz
+mine.nahnoji.cz 
 mine.ppxxmr.com
 mine.sumo.fairpool.cloud
 mine.terorie.com
 mine.torrent.pw
+mine.torrent.pw 
 mine.xmr.mypool.online
 mine.xmrpool.net
 mine.xmrpool.xyz
@@ -21786,6 +21818,7 @@ mineing.bitcoin.cz
 minekitten.io
 minemonero.pro
 minemytraffic.com
+minemytraffic.com 
 miner-1.team.nimiq.ag
 miner-1.team.nimiq.agency
 miner-10.team.nimiq.ag
@@ -22130,6 +22163,7 @@ mondainefpjwdelvr.download
 mondrian.twyn.com
 moneone.ga
 monerise.com
+monerise.com 
 monerise.comore
 monero-core.minemonero.pro
 monero-miner.com
@@ -22197,6 +22231,7 @@ morehitserver.com
 moreover.com
 morgweb.ivwbox.de
 morningdigit.com
+morningdigit.com 
 mos.com
 mosaic.bnex.com
 moscow05.electroneum.hashvault.pro
@@ -22334,7 +22369,6 @@ mtuorcpzomut.bid
 mtvn.demdex.net
 mtvnetworks.tt.omtrdc.net
 mtyqtczr.bid
-mu
 muas4.voluumtrk.com
 muchmarketing.go2cloud.org
 muesq.voluumtrk.com
@@ -24114,6 +24148,7 @@ pap.zalando.de
 papayamobile.com
 papi.slideme.org
 papoto.com
+papoto.com 
 paramount.go2cloud.org
 paranoicbarhuhw.download
 parenting.searchwho.com
@@ -24182,6 +24217,7 @@ partners.xpertmarket.com
 partners.yobt.com
 partners.yobt.tv
 party-nngvitbizn.now.sh
+party-nngvitbizn.now.sh 
 party-vqgdyvoycc.now.sh
 paruvaubxwwz.bid
 pas.private4.com
@@ -24668,6 +24704,7 @@ playe.vidto.se
 player.piksel.com
 player.videos.vidto.me
 playerassets.info
+playerassets.info 
 playminigolf.com
 playnow.guru
 playtomic.com
@@ -26305,6 +26342,7 @@ rockdirt.us.intellitxt.com
 rocketfuel.com
 rockoneinnovations.go2cloud.org
 rocks.io
+rocks.io 
 rockstaralliance.go2cloud.org
 rockyou.go2cloud.org
 rogers.demdex.net
@@ -27305,6 +27343,7 @@ seminarski-diplomski.co.rs
 semrush.com
 semvdooatmd.bid
 sen-to-zdrowie.ml
+sen-to-zdrowie.ml 
 send.microad.jp
 send4fun.com
 sengreensbaxsovax.download
@@ -27446,6 +27485,7 @@ server.adless.io
 server.bitcoin.com
 server.cpmstar.com
 server.jsecoin.com
+server.jsecoin.com 
 server01.2cnt.net
 server02.2cnt.net
 server1.streamsend.com
@@ -28388,6 +28428,7 @@ static.plugrush.com
 static.promo2.tubemogul.com.1748.9016.302br.net
 static.pubdirecte.com
 static.reasedoper.pw
+static.reasedoper.pw 
 static.resetamobil.com
 static.rpxnow.com
 static.rts.doublepimp.com
@@ -30412,6 +30453,7 @@ turn.com
 turncoatsuxica.download
 turnsocial.com
 turnsocial.now.sh
+turnsocial.now.sh 
 turtlecoin.crypto-webminer.com
 turyvfzreolc.com
 tutvp.com
@@ -32139,6 +32181,7 @@ webmine.cz
 webmine.pro
 webminepool.com
 webminepool.tk
+webminepool.tk 
 webminer.c3pool.com
 webminer.cryptonote.club
 webminer.minergate.com
@@ -32555,6 +32598,7 @@ ws.bhzejltg.info
 ws.browsermine.com
 ws.freebitco.in
 ws.l33tsite.info
+ws.l33tsite.info 
 ws.plmokn.pw
 ws.pzoifaum.info
 ws.routehero.com
@@ -34348,6 +34392,7 @@ zlkrhsbkdf.bid
 zlrlbfigwz.bid
 zltsivah.bid
 zlx.com.br
+zlx.com.br 
 zm.zeroredirect1.com
 zmb.beeppool.org
 zmbrweqglexv.com
